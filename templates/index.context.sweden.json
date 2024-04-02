@@ -4,5 +4,63 @@
     "market": "sweden"
   },
   "sections": {
+    "image_banner": {
+      "settings": {
+      },
+      "blocks": {
+        "heading": {
+          "settings": {
+            "heading": "SPRING SALES"
+          }
+        },
+        "text": {
+          "settings": {
+            "text": "Get 25% OFF of everything"
+          }
+        },
+        "button": {
+          "settings": {
+            "button_label_1": "Shop Now"
+          }
+        }
+      }
+    },
+    "rich_text": {
+      "settings": {
+      },
+      "blocks": {
+        "heading": {
+          "settings": {
+            "heading": "lights, camera, makeup"
+          }
+        },
+        "text": {
+          "settings": {
+            "text": "<p>Shop the latest makeup essentials from ALANIQUE®<\/p>"
+          }
+        }
+      }
+    },
+    "collage": {
+      "disabled": true,
+      "settings": {
+      },
+      "blocks": {
+      }
+    },
+    "video": {
+      "disabled": true,
+      "settings": {
+      },
+      "blocks": {
+      }
+    },
+    "multicolumn": {
+      "disabled": true,
+      "settings": {
+      },
+      "blocks": {
+      }
+    }
   }
 }
